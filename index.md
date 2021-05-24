@@ -1,4 +1,5 @@
 # Kalaivani Rajendran
+<img align="right" width="200" src="https://github.com/kalaivani-rajendran/kalaivani-rajendran.github.io/blob/gh-pages/8709d2b1-3150-47ae-97e2-b353ef8cd5d2.jpg">
 An environmental engineer based in Aachen, Germany. I am passionate about repurposing and managing energy to make the world a better place.
 
 [**Email**](kalairajendran13@gmail.com) / [**LinkedIn**](https://www.linkedin.com/in/kalairajendran/)
@@ -9,12 +10,12 @@ An environmental engineer based in Aachen, Germany. I am passionate about repurp
  * *Final grade:* 9.46 / 10
 
 **Bachelor's Degree, Civil Engineering** @ [**Kongu Engineering College, India,**](https://kongu.ac.in/) 2014 – 2018
-  * *Specializations:* Reinforced concrete design, strength of materials, and environmental engineering.
+  * *Specializations:* Reinforced concrete design and environmental engineering.
   * *Final grade:* 8.66 / 10
 
 ## Work Experience
 **Internship** @ [**Central Leather Research Institute**,](https://www.clri.org/) Aug 2020 – Apr 2021
-  * Tasked with recovering bio-energy and value-added products (e.g., paper, cardboard) from bananas.
+  * Tasked with recovering bio-energy and value-added products (e.g., paper, cardboard) from banana waste.
   * Developed skills in analyzing the physical and chemical characteristics of samples in a laboratory setting.
 
 ## Skills
