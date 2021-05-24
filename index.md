@@ -1,5 +1,5 @@
 # Kalaivani Rajendran
-<img align="right" width="120" src="/assets/images/krajendran.jpg" title="Kalaivani Rajendran">
+<img align="right" width="100" src="/assets/images/krajendran.jpg" title="Kalaivani Rajendran">
 An environmental engineer based in Aachen, Germany. I am passionate about repurposing and managing energy to make the world a better place. My 
 skills include chemical analysis, mass spectroscopy, leadership, and practical experience in waste water management, bio-energy repurposing, and solid waste management. 
 
