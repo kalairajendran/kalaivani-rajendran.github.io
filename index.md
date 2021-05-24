@@ -1,5 +1,5 @@
 # Kalaivani Rajendran
-<img align="right" width="200" src="https://github.com/kalaivani-rajendran/kalaivani-rajendran.github.io/blob/gh-pages/8709d2b1-3150-47ae-97e2-b353ef8cd5d2.jpg">
+<img align="right" width="300" src="/assets/images/krajendran.jpg" title="Kalaivani Rajendran">
 An environmental engineer based in Aachen, Germany. I am passionate about repurposing and managing energy to make the world a better place.
 
 [**Email**](kalairajendran13@gmail.com) / [**LinkedIn**](https://www.linkedin.com/in/kalairajendran/)
