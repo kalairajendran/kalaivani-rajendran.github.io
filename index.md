@@ -40,6 +40,7 @@ skills include chemical analysis, mass spectroscopy, leadership, and practical e
 
 ## Honors and Achievements
 * Received an "A" grade for Sustainable Energy course conducted by United Nations Organization
+* Top of the class, 2018 – 2020
 * Class Representative, 2015 – 2016
 * Additional Secretary of Civil Association, 2017 – 2018
 * Member of Institute of Engineers, India (IEI)
