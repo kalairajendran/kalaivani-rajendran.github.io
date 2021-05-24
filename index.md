@@ -17,7 +17,6 @@ An environmental engineer based in Aachen, Germany. I am passionate about repurp
 **Internship** @ [**Central Leather Research Institute**,](https://www.clri.org/) Aug 2020 – Apr 2021
   * Tasked with recovering bio-energy and value-added products (e.g., paper, cardboard) from banana waste.
   * Developed skills in analyzing the physical and chemical characteristics of samples, ethanol distillation, fermentation process, and culture innoculation in a laboratory setting.
-  * 
 
 ## Skills
 * **Laboratory:** Mass spectrometry, chemical analysis, and instrumentation.
