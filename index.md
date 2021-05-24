@@ -2,7 +2,7 @@
 
 An environmental engineer based in Aachen, Germany. I am passionate about repurposing and managing energy to make the world a better place.
 
-[**Email**](kalairajendran13@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/kalairajendran/)
+[**Email**](kalairajendran13@gmail.com) / [**LinkedIn**](https://www.linkedin.com/in/kalairajendran/)
 
 ## Education
 **Master's Degree, Environmental Engineering and Management** @ [**Coimbatore Institute of Technology, India,**](https://www.cit.edu.in/) 2018 – 2020
