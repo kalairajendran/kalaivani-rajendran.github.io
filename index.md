@@ -23,7 +23,7 @@ skills include chemical analysis, mass spectroscopy, leadership, and practical e
 * **Laboratory:** Mass spectrometry, chemical analysis, and instrumentation.
 * **Soft skills:** Leadership, organization, and presentation skills.
 * **Tools:** STAAD-Pro, AutoCAD, and MS Office.
-* **Languages:** English (native), German (A2), Tamil, and Kannada.
+* **Languages:** English (native), German (B1.1), Tamil, and Kannada.
 
 ## Industrial Visits and InPlant Training
 * *Malabar Cements,* Sept 2015
