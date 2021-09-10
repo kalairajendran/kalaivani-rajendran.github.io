@@ -15,7 +15,7 @@ skills include chemical analysis, mass spectroscopy, leadership, and practical e
   * *Final grade:* 8.66 / 10
 
 ## Work Experience
-**Internship** @ [**Central Leather Research Institute**,](https://www.clri.org/) Aug 2020 – Apr 2021
+**Internship** @ [**Central Leather Research Institute**,](https://www.clri.org/) Aug 2019 – Apr 2020
   * Tasked with recovering bio-energy and value-added products (e.g., paper, cardboard) from banana waste.
   * Developed skills in analyzing the physical and chemical characteristics of samples, ethanol distillation, fermentation process, and culture innoculation in a laboratory setting.
 
